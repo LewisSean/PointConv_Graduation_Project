@@ -1,2 +1,4 @@
 # PointConv_Graduation_Project
 SEU Undergraduate graduation project
+
+> 本科毕业设计，基于ModelNet40数据集的点云识别模型PointConv，对其做Embedding，基于一个点云模型库的Embedding做模型相似度的检索
